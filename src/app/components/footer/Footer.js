@@ -1,0 +1,10 @@
+export default function Footer(){
+    return(
+        <div style={{width:'80%', margin:'auto', padding:'10px 0', textAlign:'center', backgroundColor:"lightgray"}}>
+            Copyright &copy; 2023 한국 ICT 인재개발원
+
+        </div>
+
+    );
+
+}
